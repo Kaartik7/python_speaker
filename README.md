@@ -1,2 +1,3 @@
 # python_speaker
-Using pyttsx3 library to make python code that reads pdfs, cvs, etc. Using openmapweather api to get the weather of any city in the world and output as audio. More to be added
+Developing python programs with output method as audio.
+Using pyttsx3 library to make python code that reads out pdfs, cvs, etc. Using openmapweather api to get weather of cities accross the globe. Creating an audio based weather reporter. Currently working on using pyaudio to develop an audio spectrum analyser.
